@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="theme-color" content="#0a0a0f" />
+<title>Privacy Policy — NovaMind AI</title>
+<meta name="robots" content="index,follow" />
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" />
+<link rel="stylesheet" href="/style.css" />
+<style>
+  .legal-wrap{max-width:800px;margin:0 auto;padding:140px 24px 100px}
+  .legal-wrap h1{font-size:clamp(30px,4vw,44px);margin-bottom:8px}
+  .legal-wrap .updated{color:var(--dim);font-size:13.5px;margin-bottom:40px}
+  .legal-wrap h2{font-size:20px;margin:36px 0 12px}
+  .legal-wrap p, .legal-wrap li{color:var(--muted);font-size:15px;line-height:1.7;margin-bottom:10px}
+  .legal-wrap ul{padding-left:20px;list-style:disc}
+  .legal-wrap a{color:var(--acc);text-decoration:underline}
+  .legal-wrap table{width:100%;border-collapse:collapse;margin:16px 0}
+  .legal-wrap th,.legal-wrap td{text-align:left;padding:10px 12px;border:1px solid var(--border);font-size:14px;color:var(--muted)}
+  .legal-wrap th{color:var(--text)}
+</style>
+</head>
+<body>
+<div class="bg-orbs" aria-hidden="true"><span class="orb orb-1"></span><span class="orb orb-2"></span><span class="orb orb-3"></span><div class="grid-overlay"></div></div>
+
+<header class="nav" id="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="/index.html" aria-label="NovaMind AI home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="28" height="28"><defs><linearGradient id="lg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs><path d="M16 2 L28 9 V23 L16 30 L4 23 V9 Z" fill="none" stroke="url(#lg)" stroke-width="1.6"/><circle cx="16" cy="16" r="4" fill="url(#lg)"/></svg>
+      </span>
+      <span class="brand-name">NovaMind<span class="brand-dot">.</span>AI</span>
+    </a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="/index.html#services">Services</a>
+      <a href="/index.html#pricing">Pricing</a>
+      <a href="/index.html#faq">FAQ</a>
+      <a href="/index.html#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main class="legal-wrap">
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: July 2026</p>
+
+  <h2>1. Data controller</h2>
+  <p><strong>Elis Vi Trading 2024 EOOD</strong> (EIK: 202897141), 36 Solunska Str., floor 3, ap. 6, 1080 Sofia, Bulgaria. Contact person: Eliza Ivanova — <a href="mailto:eliza_1990@abv.bg">eliza_1990@abv.bg</a> — <a href="tel:+359879261709">+359 879 261 709</a>.</p>
+
+  <h2>2. What data we collect</h2>
+  <table>
+    <tr><th>Data</th><th>When collected</th><th>Purpose</th></tr>
+    <tr><td>Name, email</td><td>Contact form, newsletter signup</td><td>Respond to enquiries, send updates you opted into</td></tr>
+    <tr><td>Name, email, billing address, country</td><td>Checkout</td><td>Process the order, issue invoice, deliver the product</td></tr>
+    <tr><td>Basic usage data (pages viewed, browser type)</td><td>Automatically, while browsing</td><td>Site performance and security</td></tr>
+  </table>
+
+  <h2>3. Legal basis</h2>
+  <p>We process your data under Article 6(1)(b) GDPR (performance of a contract, e.g. delivering a purchased product) and Article 6(1)(a) GDPR (consent, e.g. newsletter). You may withdraw consent at any time.</p>
+
+  <h2>4. Retention</h2>
+  <p>Order and invoicing data is retained for the period required by Bulgarian accounting and tax law (generally 10 years). Contact-form messages are retained only as long as needed to handle your enquiry, and deleted afterwards unless a legal basis requires longer retention.</p>
+
+  <h2>5. Sharing your data</h2>
+  <p>We do not sell your personal data. Data may be shared with: our payment processor (to complete a transaction), our email delivery provider (to send order confirmations and files), and Bulgarian tax authorities where legally required. We do not transfer your data outside the EU/EEA except where a processor provides adequate safeguards under GDPR.</p>
+
+  <h2>6. Your rights</h2>
+  <p>Under GDPR you have the right to access, rectify, erase, restrict or object to processing of your data, and the right to data portability. To exercise any of these rights, contact <a href="mailto:eliza_1990@abv.bg">eliza_1990@abv.bg</a>. You also have the right to lodge a complaint with the Bulgarian Commission for Personal Data Protection (CPDP), <a href="https://www.cpdp.bg" target="_blank" rel="noopener">www.cpdp.bg</a>.</p>
+
+  <h2>7. Cookies</h2>
+  <p>This site uses only strictly necessary cookies/local storage required for core functionality, such as remembering the items in your shopping cart. No third-party advertising or tracking cookies are set without your consent.</p>
+
+  <h2>8. Contact</h2>
+  <p>Questions about this policy: <a href="mailto:eliza_1990@abv.bg">eliza_1990@abv.bg</a>.</p>
+</main>
+
+<footer class="footer">
+  <div class="container foot-bar">
+    <p>© <span id="year">2026</span> NovaMind AI · Elis Vi Trading 2024 EOOD. All rights reserved.</p>
+    <p class="foot-mini"><a href="/terms.html">Terms</a> · <a href="/privacy.html">Privacy</a> · <a href="/refund.html">Refunds</a></p>
+  </div>
+</footer>
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>

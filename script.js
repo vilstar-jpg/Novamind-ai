@@ -713,7 +713,7 @@ function initLangSwitcher() {
     var btn = e.target.closest('.lang-btn');
     if (!btn) return;
     var lang = btn.dataset.lang;
-    if (lang && lang !== currentLang) setLang(lang);
+    if (lang) setLang(lang); // always apply, even if same lang (re-applies translations)
   });
 }
 

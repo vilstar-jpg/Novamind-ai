@@ -5,8 +5,11 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0f",
+  "orientation": "any",
+  "lang": "en",
+  "categories": ["education", "business", "productivity"],
   "theme_color": "#0a0a0f",
   "icons": [
-    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    { "src": "./assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
